@@ -52,23 +52,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek-rathod14&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-Bhai Vivek 🔥
-Main tera GitHub profile next level + unique + premium look bana deta hoon — jo kisi ka copy na lage.
-Ye ek developer + creative editor + futuristic vibe profile hoga 💻✨
-
-Tu bas pura code copy karke README.md me paste kar de (profile repo me).
-
-🚀 UNIQUE GITHUB PROFILE README (Premium Version)
-<h1 align="center">⚡ Vivek Rathod | Code. Create. Conquer. ⚡</h1>
-
-<h3 align="center">🚀 Full Stack Developer | 🎬 Creative Editor | 🇮🇳 India</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+%2B+Backend+Builder;Creative+Mind+With+Code;Future+Tech+Explorer" />
-</p>
-
----
-
-## 🧠 About Me
